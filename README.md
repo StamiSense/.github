@@ -27,8 +27,7 @@ Over the past decade, the number of sports games played in a calendar year has d
 
 ## Acknowledgements
 
-We would like to extend our sincerest gratitude to our supervisor, Maran Ma, for her guidance, expertise, and support throughout the duration of this capstone project. We are also grateful to the faculty of Electrical and Computer Engineering at the University of Waterloo and the ECE498 instructional team for providing us with the resources and facilities that allowed for the development and research of this project. We would like to recognize the collaborative effort and shared dedication of our entire team: Eric Chanthalima, Michael Tham, Jinha Kim, and Kordian Mazurkiewicz <img width="468" height="23" alt="image" src="https://github.com/user-attachments/assets/5393278d-71ac-4d92-8d71-6dc213653aa6" />
-. Everyone brought unique contributions to the table, enabling us to realize this project.
+We would like to extend our sincerest gratitude to our supervisor, Maran Ma, for her guidance, expertise, and support throughout the duration of this capstone project. We are also grateful to the faculty of Electrical and Computer Engineering at the University of Waterloo and the ECE498 instructional team for providing us with the resources and facilities that allowed for the development and research of this project. We would like to recognize the collaborative effort and shared dedication of our entire team: Eric Chanthalima, Michael Tham, Jinha Kim, and Kordian Mazurkiewicz. Everyone brought unique contributions to the table, enabling us to realize this project.
 
 
 
