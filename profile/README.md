@@ -6,7 +6,7 @@ Over the past decade, the number of sports games played in a calendar year has d
 
 ## 📄 Docs
 
-[View the PDF](./docs/file.pdf)
+[View the PDF](../docs/file.pdf)
 
 ## 🎥 Demo Video
 
