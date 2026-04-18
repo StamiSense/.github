@@ -4,6 +4,10 @@
 
 Over the past decade, the number of sports games played in a calendar year has drastically increased, leading to shorter recovery times and increased injury risks among athletes. Wearable technologies are used to help trainers manage workload, improve performance, and prevent injury. Current solutions aim to measure performance through distance, exercise times and heat map metrics, while StaminaSense provides detailed overviews of an athlete’s physiological state through biometric sensors and motion tracking. This data allows coaches to make educated choices on training, substitutions, and recovery strategies, which can reduce injury and optimize athlete output. StaminaSense uses wearable technology with sensors to obtain data. The system collects input during athletic activity and processes data through a model trained on the athlete wearing the equipment. The output is presented on a mobile device, recommending rest periods when certain thresholds are met. The biggest advantage of StaminaSense over current solutions is its integration of internal physiological monitoring combined with machine learning to offer a simplified approach to athlete management.
 
+## 📄 Docs
+
+[View the PDF](./docs/file.pdf)
+
 ## 🎥 Demo Video
 
 [![StaminaSense Demo Video](https://img.youtube.com/vi/BKv6k-wahn4/0.jpg)](https://www.youtube.com/watch?v=BKv6k-wahn4)
