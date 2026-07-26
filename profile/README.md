@@ -29,6 +29,11 @@ Over the past decade, the number of sports games played in a calendar year has d
 
 <img width="282" height="208" alt="image" src="https://github.com/user-attachments/assets/565e10b9-5a6e-4eee-b8a1-08daddbda5b3" />
 
+## 📈❤️ Firmware HRV Algorithm
+
+<img width="872" height="285" alt="image" src="https://github.com/user-attachments/assets/ef240fe6-87fb-44b9-84f8-621993044227" />
+
+
 ## Acknowledgements
 
 We would like to extend our sincerest gratitude to our supervisor, Maran Ma, for her guidance, expertise, and support throughout the duration of this capstone project. We are also grateful to the faculty of Electrical and Computer Engineering at the University of Waterloo and the ECE498 instructional team for providing us with the resources and facilities that allowed for the development and research of this project. We would like to recognize the collaborative effort and shared dedication of our entire team: Eric Chanthalima, Michael Tham, Jinha Kim, and Kordian Mazurkiewicz. Everyone brought unique contributions to the table, enabling us to realize this project.
